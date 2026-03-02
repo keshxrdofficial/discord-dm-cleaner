@@ -1,0 +1,14 @@
+{
+  "name": "discord-mesaj-silici",
+  "version": "1.0.0",
+  "description": "DM ve gruplarda mesaj silme botu",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "debug": "^4.4.3",
+    "discord.js-selfbot-v13": "^3.7.1",
+    "dotenv": "^16.3.1"
+  }
+}
